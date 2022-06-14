@@ -17,6 +17,12 @@ const dishes = [{
         name: 'plato 3',
         description: 'Este es el plato 3',
         price: 15
+    },
+    {
+        id: 4,
+        name: 'plato 4',
+        description: 'ejemplo',
+        price: 17
     }
 ]
 
